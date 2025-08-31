@@ -32,7 +32,7 @@ This project analyzes a simulated **Credit Card Transactions dataset** to detect
 - **Power BI Dashboard:** https://drive.google.com/file/d/1hScma3POMgaSiU_5MXrAnr7gTFwHzOJi/view?usp=drive_link  
 
 **Page 1 – Overview / Summary**  
-https://github.com/sanashaffique/credit-card-fraud-analysis/blob/main/Screenshot 2025-08-31 203417.png
+https://github.com/sanashaffique/credit-card-fraud-analysis/blob/main/Screenshot%202025-08-31%20203417.png
 Displays KPIs for total transactions, fraud count, fraud rate, total amount, and unique customers. Includes line chart of fraud by date and state, bar charts for category and gender.  
 
 **Page 2 – Customer Insights**  
@@ -40,11 +40,11 @@ https://github.com/sanashaffique/credit-card-fraud-analysis/blob/main/Screenshot
 Analyzes fraud by age group, gender, top customers, job roles, and amount groups. Interactive slicers include date, amount, age group, and gender.  
 
 **Page 3 – Geographical Distribution**  
-https://github.com/sanashaffique/credit-card-fraud-analysis/blob/main/Screenshot 2025-08-31 203502.png
+https://github.com/sanashaffique/credit-card-fraud-analysis/blob/main/Screenshot%202025-08-31%20203502.png
 Maps and charts for fraud by state, business/store, and merchant site. Bubble maps visualize high-risk locations.  
 
 **Page 4 – Transaction Insights & Trends**  
-https://github.com/sanashaffique/credit-card-fraud-analysis/blob/main/Screenshot 2025-08-31 203538.png
+https://github.com/sanashaffique/credit-card-fraud-analysis/blob/main/Screenshot%202025-08-31%20203538.png
 Line charts for fraud by day/month, matrix of business vs total transactions vs fraud, and analysis by amount groups. Highlights repeat fraud customers and channel-based trends.  
 
 📌 **Recommendations**
