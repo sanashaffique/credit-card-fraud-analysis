@@ -94,8 +94,8 @@ This project analyzes a simulated **Credit Card Transactions dataset** to detect
 - **Fraud Trends:** Peaks from July to November; highest daily fraud on 4th October  
 
 📷 **Dashboard Pages**
-- **Dataset & SQL Queries:** [Download RAW & SQL Files (RAR)](YOUR_GOOGLE_DRIVE_LINK_HERE)  
-- **Power BI Dashboard:** [Download PBIX File](YOUR_GOOGLE_DRIVE_LINK_HERE)  
+- **Raw Dataset :** https://drive.google.com/file/d/1ZOoAZq6pvlKjYSG7slaQ3Q_r8Fscbu2-/view?usp=drive_link 
+- **Power BI Dashboard:** https://drive.google.com/file/d/1hScma3POMgaSiU_5MXrAnr7gTFwHzOJi/view?usp=drive_link  
 
 **Page 1 – Overview / Summary**  
 Displays KPIs for total transactions, fraud count, fraud rate, total amount, and unique customers. Includes line chart of fraud by date and state, bar charts for category and gender.  
